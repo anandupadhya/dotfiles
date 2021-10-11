@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anand.upadhya@yahoo.com
+	name = Anand Upadhya
